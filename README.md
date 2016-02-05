@@ -1,2 +1,2 @@
 # J-Chat
-Jesus Guereca Basic Chat
+Jesus Guereca Basic Chat for Coding
